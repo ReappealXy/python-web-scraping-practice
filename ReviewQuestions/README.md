@@ -1,5 +1,4 @@
 # Python Web Scraping Practice (Python 网络爬虫练习)
-
 这是我作为一名Python网络爬虫初学者的日常练习记录。包含了我在 [Spiderbuf.cn](https://spiderbuf.cn/) 网站上完成的各种挑战和解决方案。
 
 ## 🚀 项目包含内容 (What's Inside?)
