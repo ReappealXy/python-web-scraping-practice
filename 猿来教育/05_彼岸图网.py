@@ -31,6 +31,6 @@ for href in href_items:
     img_src=url+img_src
     print(img_name,img_src)
     response_img=requests.get(url=img_src,headers=header_img)
-    with open(f'img/{img_name}.jpg', 'wb') as f:
+    with open(f'img/05_彼岸图网/{img_name}.jpg', 'wb') as f:
         f.write(response_img.content)
     break
