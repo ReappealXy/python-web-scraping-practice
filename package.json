@@ -1,0 +1,23 @@
+{
+  "name": "pythonproject",
+  "version": "1.0.0",
+  "description": "这是我作为一名Python网络爬虫初学者的日常练习记录。包含了我在 [Spiderbuf.cn](https://spiderbuf.cn/) 网站上完成的各种挑战和解决方案。",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReappealXy/python-web-scraping-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReappealXy/python-web-scraping-practice/issues"
+  },
+  "homepage": "https://github.com/ReappealXy/python-web-scraping-practice#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
